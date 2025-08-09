@@ -1,7 +1,11 @@
-# ABOUTME
+## ABOUTME
 
-- ...
-- ...
+- 다양한 플랫폼 간의 견고한 통합을 보장하는 데이터 흐름 및 상태 관리 아키텍처의 설계와 문서화에  
+전문성을 가진 프론트엔드 개발자로서, 협업 효율성과 제품 품질 향상을 최우선으로 합니다.
+
+- A frontend developer specializing in the design and documentation of data flow and state management  
+architectures that ensure robust integration across diverse platforms, with a primary focus on enhancing  
+collaboration efficiency and product quality.
 
 ## Things I Work With
 
